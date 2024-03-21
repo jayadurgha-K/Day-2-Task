@@ -10,6 +10,7 @@
 - document is one of the object inside window.
 
 - ### Example: 
+
   How to work the properties of the window object
 
   => Location : it is one of the property of the window, it is used to navigate the browsing web page.
