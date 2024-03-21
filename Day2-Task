@@ -1,0 +1,25 @@
+
+##  Write the bolg on the difference between document and window object
+
+- Window & document are the object in Browser JS.
+
+ ### Window Object
+- Window is a global object.
+- It is used to access browser javascript engine.
+- It has all the informations and global variables, function and objects.
+- document is one of the object inside window.
+
+- ### Example: 
+  How to work the properties of the window object
+
+  => Location : it is one of the property of the window, it is used to navigate the browsing web page.
+
+  => Syntax:
+
+  window.location = browsing web page,like ("https://www.myntra.com" ).
+
+ ### document Object
+
+- document is an object. 
+- It is used interact with the html document or html web page. 
+- Using this we can make our website more interactive and functional to the user.
